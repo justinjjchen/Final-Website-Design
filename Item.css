@@ -1,0 +1,31 @@
+body{background: url("http://lolwp.com/wp-content/uploads/rengar-headhunter-wallpaper.jpg")fixed;}
+
+#wrapper{
+	width:70%;
+	margin:0 auto;
+	background-color:#6c9fdd;
+	opacity: 0.85;
+}
+
+#header{
+	height:50px;
+	text-align:center;		
+}
+
+#rightbody{
+	height:4800px;
+	background:#d1acef;
+	padding:5px;
+}
+#center{
+	text-align: center;
+}
+
+#left{
+	text-align: left;
+}
+.title{
+font-size: 35px;
+font-family: Times New Romans, Times, serif;
+color:#efd65b;
+}

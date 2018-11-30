@@ -1,0 +1,92 @@
+#logo{
+	text-align: center;
+	
+}
+
+body{background: url("https://cdnb.artstation.com/p/assets/images/images/009/292/751/large/jojo-so-2rengar8-20180209.jpg?1518153547")fixed;}
+
+#wrapper{
+	width:70%;
+	margin:0 auto;
+	background-color:#6c9fdd;
+	text-align: center;
+	opacity: 0.75;
+}
+
+#header{
+	height:40px;
+	text-align:center;		
+}
+
+#rightbody{
+	height:2100px;
+	background:#d1acef;
+	padding:5px;
+	text-align:center;
+}
+
+#otherTier{
+	font-size: 20px;
+}
+
+#music{
+	background-color: #3378e8;
+	color: #efd65b;
+	padding: 8px 15px;
+	text-align: center;
+	text-decoration: none;
+	margin-right: 5px;
+	margin-right: 5px;
+}
+#Item{
+	background-color: #3378e8;
+	color: #efd65b;
+	padding: 8px 15px;
+	text-align: center;
+	text-decoration: none;
+	margin-left:5px;
+}
+
+.title{
+font-size: 35px;
+font-family: Times New Romans, Times, serif;
+color:#efd65b;
+}
+
+.Godtier{
+	font-size :30px;
+}
+
+.top1{
+	font-size :25px;
+}
+.mid1{
+	font-size :25px;
+}
+.bot1{
+	font-size :25px;
+}
+.sup1{
+	font-size :25px;
+}
+.jg1{
+	font-size :25px;
+}
+
+.champ{
+	width:320px;
+	height:200px;
+}
+
+.button{
+	font-family: Times New Romans, Times, serif;
+	font-size:18px;
+	width:140px;
+	height:40px;
+	padding: 8px 15px;
+	text-align: center;
+	text-decoration: none;
+	background-color: #a843e8;
+	color: white;
+}
+
